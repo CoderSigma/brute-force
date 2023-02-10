@@ -5,6 +5,6 @@ using android device.
 # download
 https://play.google.com/store/apps/details?id=com.termux
 
-'''
+```
 python file.py
-'''
+```
