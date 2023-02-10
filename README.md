@@ -15,3 +15,11 @@ apt install python
 ```
 apt install git
 ```
+#Password-list
+
+first create a 
+
+```
+passwords.txt
+```
+#Usage
