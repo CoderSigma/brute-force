@@ -15,11 +15,19 @@ apt install python
 ```
 apt install git
 ```
-#Password-list
+# Password-list
 
 first create a 
 
 ```
 passwords.txt
 ```
-#Usage
+# Usage
+Enter Target Url: :site.com/login
+Enter Target Username: admin12345
+Enter Wrong Password Error Message: testing123
+Trying:123456
+Username: ---> admin123455
+Password: ---> 123456
+
+[Program finished]
