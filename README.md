@@ -4,7 +4,14 @@ using android device.
 
 # download
 https://play.google.com/store/apps/details?id=com.termux
+update all the package before download the file
 
 ```
-python file.py
+$ pkg update
+```
+```
+apt install python
+```
+```
+apt install git
 ```
